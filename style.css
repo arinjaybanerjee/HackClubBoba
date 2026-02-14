@@ -1,0 +1,10 @@
+img {
+    width: 200px;
+    border-radius: 10px;
+}
+body {
+    text-align: center;
+    font-family: 'Lucida Sans';
+    background: rgb(45, 216, 216);
+    color: magenta;
+}
